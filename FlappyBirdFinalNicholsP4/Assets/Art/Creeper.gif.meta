@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 1900191ce9141104fa598e2eec409ef3
+guid: 5b52f7733f1d84c4fae2d1c2d1976def
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -164,13 +164,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BirdHero_0
+      name: Creeper_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 30
-        width: 113
-        height: 67
+        x: 0
+        y: 0
+        width: 700
+        height: 700
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,50 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb85d496dded3a641af97c62a562720d
-      internalID: -216613412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BirdHero_1
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 30
-        width: 118
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b64dee17f850b0846af86264eb4c456d
-      internalID: -1351861456
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BirdHero_2
-      rect:
-        serializedVersion: 2
-        x: 264
-        y: 30
-        width: 113
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6298537d4e0a50349a63fa9363d9bc31
-      internalID: -298267751
+      spriteID: 14368d20b13f73a47890d678e16d0fbb
+      internalID: 1040931355
       vertices: []
       indices: 
       edges: []
@@ -237,9 +195,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      BirdHero_2: -298267751
-      BirdHero_1: -1351861456
-      BirdHero_0: -216613412
+      Creeper_0: 1040931355
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
